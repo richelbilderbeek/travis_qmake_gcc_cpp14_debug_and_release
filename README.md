@@ -15,5 +15,8 @@ The goal of this project is to have a clean Travis CI build, with specs:
  * Code coverage: none
  * Source: one single file, `main.cpp`
 
+More complex builds:
+ * Add `GSL`: [travis_qmake_gcc_cpp14_debug_and_release_gsl](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp14_debug_and_release_gsl)
+
 Less complex builds:
  * Only one build mode: [travis_qmake_gcc_cpp14](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp14)
