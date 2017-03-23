@@ -3,10 +3,14 @@ language: cpp
 compiler: gcc
 
 before_install:
+  # C++14
   - sudo add-apt-repository --yes ppa:ubuntu-toolchain-r/test
   - sudo apt-get update -qq
 
-install: sudo apt-get install -qq g++-5
+install: 
+  # C++14
+  - sudo apt-get install -qq g++-5
+  - sudo update-alternatives --install /usr/bin/g++ g++ /usr/bin/g++-5 90
 
 script: 
   - qmake
