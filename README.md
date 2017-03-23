@@ -1,7 +1,7 @@
 # travis_qmake_gcc_cpp14_debug_and_release
 
 Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
----|---|---
+---|---
 master|[![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14_debug_and_release.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14_debug_and_release)
 develop|[![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14_debug_and_release.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14_debug_and_release)
 
